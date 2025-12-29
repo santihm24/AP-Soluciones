@@ -1,0 +1,470 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Apantallamientos",
+      "descripcion": "Dispositivos y sistemas de protección externa contra rayos para la protección de estructuras.",
+      "subcategorias": [],
+      "productos": [
+        {
+          "id": "GL-AC001",
+          "sku": "GL-AC001",
+          "nombre_producto": "Aglomerante Conductivo GL",
+          "descripcion_producto": "Producto en forma de gránulos utilizado para la contrincación y mejoramiento de sistemas de puesta a tierra. Garantiza seguridad eléctrica, evita la corrosión y es libre de mantenimiento.",
+          "descripcion_detallada": "El Aglomerante Conductivo GL es una solución innovadora diseñada específicamente para mejorar la conductividad eléctrica en sistemas de puesta a tierra. Su composición única en forma de gránulos permite una aplicación fácil y efectiva, creando una conexión eléctrica estable y duradera entre los electrodos y el suelo circundante. Este producto ha sido desarrollado con tecnología avanzada que garantiza un rendimiento óptimo en diversas condiciones climáticas y tipos de suelo.",
+          "caracteristica1": "Conductividad estable en cualquier clima.",
+          "caracteristica2": "Resistividad muy baja (1.95 - 1.63 Ω/cm³).",
+          "caracteristica3": "No es corrosivo y no contiene sales o sulfatos que dañen los electrodos.",
+          "especificaciones_tecnicas": {
+            "Resistividad": "1.95 - 1.63 Ω/cm³",
+            "Composición": "Gránulos conductivos especiales",
+            "pH": "Neutro (6.5 - 7.5)",
+            "Temperatura de operación": "-40°C a +85°C",
+            "Densidad": "1.8 - 2.2 g/cm³",
+            "Granulometría": "2-8 mm",
+            "Conductividad térmica": "Alta",
+            "Resistencia a la corrosión": "Excelente"
+          },
+          "aplicaciones": [
+            "Sistemas de puesta a tierra residenciales",
+            "Instalaciones industriales",
+            "Subestaciones eléctricas",
+            "Torres de telecomunicaciones",
+            "Sistemas de protección contra rayos",
+            "Mejoramiento de suelos con alta resistividad"
+          ],
+          "certificaciones": [
+            "IEEE 80",
+            "NEC 250",
+            "IEC 62561",
+            "UL Listed",
+            "Certificación ambiental ISO 14001"
+          ],
+          "dimensiones": "Saco de 25 kg: 40 x 60 x 15 cm",
+          "peso": "25 kg por saco",
+          "material": "Compuesto conductivo granular especializado",
+          "garantia": "5 años de efectividad garantizada",
+          "url": "/img_productos/apantallamientos/cemento.jpg",
+          "categoria_id": 1,
+          "fecha_lanzamiento": "2020-03-15",
+          "disponibilidad": "disponible"
+        },
+        {
+          "id": "GL-FCE002",
+          "sku": "GL-FCE002",
+          "nombre_producto": "Fluidor de Cargas Electroestáticas (FCE)",
+          "ficha_tecnica": "/docs/GL-AC001.pdf",
+          "descripcion_producto": "Dispositivo de protección externa contra rayos que evita la formación del rayo almacenando cargas eléctricas de la atmósfera y llevándolas a tierra, sin atraerlas.",
+          "descripcion_detallada": "El Fluidor de Cargas Electroestáticas (FCE) representa una tecnología revolucionaria en protección contra rayos. A diferencia de los pararrayos tradicionales que atraen los rayos, el FCE previene su formación mediante la captura y canalización continua de cargas electroestáticas atmosféricas hacia tierra. Su diseño innovador utiliza principios de física avanzada para crear un campo de protección invisible que neutraliza las condiciones necesarias para la formación de descargas eléctricas atmosféricas.",
+          "caracteristica1": "Eficacia del 100% de protección con un radio de acción de hasta 100 metros.",
+          "caracteristica2": "No contiene elementos eléctricos, electrónicos o radioactivos.",
+          "caracteristica3": "Garantía de 6 años y vida útil de 10 años.",
+          "especificaciones_tecnicas": {
+            "Radio de protección": "Hasta 100 metros",
+            "Altura mínima instalación": "2 metros sobre estructura más alta",
+            "Material cabeza captora": "Aleación especial conductiva",
+            "Resistencia viento": "200 km/h",
+            "Temperatura operación": "-50°C a +80°C",
+            "Humedad relativa": "0% a 100%",
+            "Resistencia corrosión": "Grado marino",
+            "Vida útil": "10 años mínimo"
+          },
+          "aplicaciones": [
+            "Edificios residenciales y comerciales",
+            "Instalaciones industriales",
+            "Hospitales y centros médicos",
+            "Escuelas y universidades",
+            "Centros comerciales",
+            "Instalaciones deportivas",
+            "Plantas de combustible",
+            "Subestaciones eléctricas"
+          ],
+          "certificaciones": [
+            "UL 96A",
+            "NFPA 780",
+            "IEC 62305",
+            "NFC 17-102",
+            "Certificación CE",
+            "ISO 9001:2015"
+          ],
+          "dimensiones": "Altura total: 1.5m, Diámetro base: 15cm",
+          "peso": "8.5 kg",
+          "material": "Acero inoxidable 316L con aleación conductiva especial",
+          "garantia": "6 años de funcionamiento garantizado",
+          "url": "/img_productos/apantallamientos/fluido.jpg",
+          "imagenes_adicionales": [],
+          "categoria_id": 1,
+          "fecha_lanzamiento": "2019-08-20",
+          "disponibilidad": "disponible"
+        },
+        {
+          "id": "GL-ACR003",
+          "sku": "GL-ACR003",
+          "nombre_producto": "Apantallador Contrarayos (ACR)",
+          "descripcion_producto": "Dispositivo de protección externa contra rayos que almacena cargas eléctricas atmosféricas para evitar la formación del rayo, protegiendo la estructura donde se instala.",
+          "caracteristica1": "Radio de protección que depende de la altura de instalación y el nivel de riesgo.",
+          "caracteristica2": "Fabricado con materiales de alta resistencia a la intemperie como acero inoxidable y caucho.",
+          "caracteristica3": "Garantía de 3 años.",
+          "especificaciones_tecnicas": {
+            "Radio de protección": "Variable según altura (15-60m)",
+            "Altura instalación": "Mínimo 3m sobre punto más alto",
+            "Material estructura": "Acero inoxidable 316L",
+            "Aislamiento": "Caucho EPDM grado intemperie",
+            "Resistencia mecánica": "Vientos hasta 180 km/h",
+            "Temperatura operación": "-40°C a +70°C",
+            "Resistencia UV": "Excelente (>20 años)",
+            "Conexión tierra": "Cable cobre 35mm² mínimo"
+          },
+          "aplicaciones": [
+            "Viviendas unifamiliares",
+            "Edificios de apartamentos",
+            "Oficinas corporativas",
+            "Centros educativos",
+            "Instalaciones deportivas",
+            "Almacenes y bodegas",
+            "Plantas industriales pequeñas",
+            "Torres de comunicación"
+          ],
+          "certificaciones": [
+            "UL 96",
+            "NFPA 780",
+            "IEC 62305-3",
+            "NTC 4552",
+            "Certificación RETIE",
+            "ISO 9001:2015"
+          ],
+          "dimensiones": "Altura: 2.2m, Base: 25 x 25cm",
+          "peso": "12 kg",
+          "material": "Acero inoxidable 316L con componentes de caucho EPDM",
+          "garantia": "3 años contra defectos de fabricación",
+          "url": "/img_productos/apantallamientos/apantallador.webp",
+          "imagenes_adicionales": [],
+          "categoria_id": 1,
+          "fecha_lanzamiento": "2018-11-10",
+          "disponibilidad": "disponible"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "EQUIPOS DE AP SURGE",
+      "descripcion": "Equipos de protección contra sobretensiones transitorias (surge) para aplicaciones de alta potencia.",
+      "subcategorias": [
+        {
+          "id": 21,
+          "nombre": "Datos",
+          "descripcion": "Protectores contra sobretensiones para líneas de datos y comunicaciones.",
+          "productos": []
+        },
+        {
+          "id": 22,
+          "nombre": "DC",
+          "descripcion": "Protectores contra sobretensiones para sistemas de corriente continua (DC).",
+          "productos": []
+        },
+        {
+          "id": 23,
+          "nombre": "Tipo 1",
+          "descripcion": "Protectores contra sobretensiones Tipo 1 para descargas directas de rayos.",
+          "productos": []
+        },
+        {
+          "id": 24,
+          "nombre": "Tipo 2",
+          "descripcion": "Protectores contra sobretensiones Tipo 2 para sobretensiones de maniobra e inducidas.",
+          "productos": []
+        },
+        {
+          "id": 25,
+          "nombre": "Tipo 3",
+          "descripcion": "Protectores contra sobretensiones Tipo 3 para protección complementaria de equipos sensibles.",
+          "productos": []
+        }
+      ],
+      "productos": []
+    },
+    {
+      "id": 3,
+      "nombre": "EQUIPOS DE DETENCION Y EXTINCION DE INCENDIOS",
+      "descripcion": "Equipos y sistemas especializados para la detección, control y extinción de incendios.",
+      "subcategorias": [
+        {
+          "id": 31,
+          "nombre": "FIRE PRP",
+          "descripcion": "Sistemas de protección contra incendios FirePro con tecnología de aerosol condensado",
+          "productos": [
+            {
+              "id": "FP-20T001",
+              "sku": "FP-20T",
+              "nombre_producto": "FirePro FP-20T",
+              "descripcion_producto": "Generador de extinción de incendios por aerosol condensado, activación eléctrica",
+              "descripcion_detallada": "El FirePro FP-20T es un sistema revolucionario de extinción de incendios que utiliza tecnología de aerosol condensado. Este generador compacto libera partículas ultrafinas que interrumpen la reacción química del fuego a nivel molecular, proporcionando una extinción efectiva sin dañar equipos electrónicos sensibles. Su diseño compacto y activación eléctrica lo hacen ideal para espacios confinados como gabinetes eléctricos, salas de servidores y equipos críticos.",
+              "caracteristica1": "Masa compuesto FPC: 20g, Peso bruto: 310g",
+              "caracteristica2": "Tiempo descarga: 5-10 seg, Dimensiones: Ø32x165mm",
+              "caracteristica3": "Clase fuego: EN 2-A,B,C,F - NFPA 10 A,B,C, Certificaciones: UL, KIWA, BSI",
+              "especificaciones_tecnicas": {
+                "Masa del compuesto FPC": "20g",
+                "Peso bruto": "310g",
+                "Tiempo de descarga": "5-10 segundos",
+                "Dimensiones": "Ø32 x 165mm",
+                "Volumen protegido": "Hasta 2m³",
+                "Temperatura activación": "68°C ±5°C",
+                "Voltaje activación": "12-24V DC",
+                "Corriente activación": "1A por 2 segundos",
+                "Temperatura operación": "-54°C a +95°C",
+                "Humedad relativa": "0-95%",
+                "Vida útil": "15 años"
+              },
+              "aplicaciones": [
+                "Gabinetes eléctricos",
+                "Salas de servidores pequeñas",
+                "Equipos de telecomunicaciones",
+                "Tableros de control",
+                "UPS y sistemas de energía",
+                "Equipos médicos",
+                "Vehículos especiales",
+                "Espacios confinados"
+              ],
+              "certificaciones": [
+                "UL 2775",
+                "KIWA",
+                "BSI Kitemark",
+                "EN 15276-1",
+                "NFPA 2010",
+                "IMO MSC.1/Circ.1270",
+                "CE",
+                "ISO 9001:2015"
+              ],
+              "dimensiones": "Diámetro: 32mm, Altura: 165mm",
+              "peso": "0.31 kg",
+              "material": "Carcasa de acero galvanizado con recubrimiento epóxico",
+              "garantia": "15 años de vida útil garantizada",
+              "url": "/img_productos/extincion/producto1.jpg",
+              "imagenes_adicionales": [],
+              "categoria_id": 3,
+              "subcategoria_id": 31,
+              "fecha_lanzamiento": "2018-05-12",
+              "disponibilidad": "disponible"
+            },
+            {
+              "sku": "FP-20TH",
+              "nombre_producto": "FirePro FP-20TH",
+              "descripcion_producto": "Generador de extinción de incendios por aerosol condensado, activación térmica",
+              "caracteristica1": "Masa compuesto FPC: 20g, Activación térmica automática",
+              "caracteristica2": "Ideal para gabinetes eléctricos pequeños",
+              "caracteristica3": "Certificaciones: KIWA, BSI",
+              "url": "/img_productos/extincion/producto2.jpg"
+            },
+            {
+              "sku": "FP-40T",
+              "nombre_producto": "FirePro FP-40T",
+              "descripcion_producto": "Generador de aerosol condensado para protección contra incendios",
+              "caracteristica1": "Masa compuesto FPC: 40g, Peso bruto: 610g",
+              "caracteristica2": "Dimensiones: Ø51x140mm, Activación eléctrica/térmica",
+              "caracteristica3": "Certificaciones: UL, KIWA, BSI",
+              "url": "/img_productos/extincion/producto3.jpg"
+            },
+            {
+              "sku": "FP-80T",
+              "nombre_producto": "FirePro FP-80T",
+              "descripcion_producto": "Generador de extinción por aerosol condensado para volúmenes medianos",
+              "caracteristica1": "Masa compuesto FPC: 80g, Peso bruto: 870g",
+              "caracteristica2": "Dimensiones: Ø51x185mm, Tiempo descarga: 5-10 seg",
+              "caracteristica3": "Certificaciones: UL, KIWA, BSI",
+              "url": "/img_productos/extincion/producto4.jpg"
+            },
+            {
+              "sku": "FP-100S",
+              "nombre_producto": "FirePro FP-100S",
+              "descripcion_producto": "Generador de aerosol condensado cilíndrico de acero inoxidable",
+              "caracteristica1": "Masa compuesto FPC: 100g, Peso bruto: 1,370g",
+              "caracteristica2": "Dimensiones: Ø84x155mm, Carcasa acero inoxidable",
+              "caracteristica3": "Certificaciones: UL, KIWA, MED, BSI",
+              "url": "/img_productos/extincion/producto5.jpg"
+            },
+            {
+              "sku": "FP-200S",
+              "nombre_producto": "FirePro FP-200S",
+              "descripcion_producto": "Generador de aerosol condensado para aplicaciones industriales",
+              "caracteristica1": "Masa compuesto FPC: 200g, Peso bruto: 1,840g",
+              "caracteristica2": "Dimensiones: Ø84x185mm, Activación dual",
+              "caracteristica3": "Certificaciones: UL, KIWA, MED, BSI",
+              "url": "/img_productos/extincion/producto6.jpg"
+            },
+            {
+              "sku": "FP-500S",
+              "nombre_producto": "FirePro FP-500S",
+              "descripcion_producto": "Generador de aerosol condensado de alta capacidad",
+              "caracteristica1": "Masa compuesto FPC: 500g, Peso bruto: 3,340g",
+              "caracteristica2": "Dimensiones: Ø84x295mm, Carcasa acero inoxidable",
+              "caracteristica3": "Certificaciones: UL, KIWA, MED, BSI",
+              "url": "/img_productos/extincion/producto7.jpg"
+            },
+            {
+              "sku": "FP-1200",
+              "nombre_producto": "FirePro FP-1200",
+              "descripcion_producto": "Generador tipo caja para protección de grandes volúmenes",
+              "caracteristica1": "Masa compuesto FPC: 1,200g, Peso bruto: 10,900g",
+              "caracteristica2": "Dimensiones: 216x300x167mm, Carcasa acero carbon pintado",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, VDS, MED, BSI",
+              "url": "/img_productos/extincion/producto8.jpg"
+            },
+            {
+              "sku": "FP-1200S",
+              "nombre_producto": "FirePro FP-1200S",
+              "descripcion_producto": "Generador tipo caja en acero inoxidable",
+              "caracteristica1": "Masa compuesto FPC: 1,200g, Carcasa acero inoxidable",
+              "caracteristica2": "Dimensiones: 216x300x167mm, Ideal ambientes corrosivos",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, VDS, MED, BSI",
+              "url": "/img_productos/extincion/producto9.jpg"
+            },
+            {
+              "sku": "FP-2000",
+              "nombre_producto": "FirePro FP-2000",
+              "descripcion_producto": "Generador de aerosol condensado de alta capacidad",
+              "caracteristica1": "Masa compuesto FPC: 2,000g, Peso bruto: 15,500g",
+              "caracteristica2": "Dimensiones: 300x300x185mm, Tiempo descarga: 10-15 seg",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, VDS, MED, BSI",
+              "url": "/img_productos/extincion/producto10.jpg"
+            },
+            {
+              "sku": "FP-3000",
+              "nombre_producto": "FirePro FP-3000",
+              "descripcion_producto": "Generador para protección de grandes espacios",
+              "caracteristica1": "Masa compuesto FPC: 3,000g, Peso bruto: 16,300g",
+              "caracteristica2": "Dimensiones: 300x300x185mm, Tiempo descarga: 15-20 seg",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, VDS, MED, BSI",
+              "url": "/img_productos/extincion/producto11.jpg"
+            },
+            {
+              "sku": "FP-4200T",
+              "nombre_producto": "FirePro FP-4200T",
+              "descripcion_producto": "Generador de alta capacidad con activación térmica opcional",
+              "caracteristica1": "Masa compuesto FPC: 4,200g, Peso bruto: 23,600g",
+              "caracteristica2": "Dimensiones: 300x300x300mm, Carcasa acero carbon",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, VDS, MED, BSI",
+              "url": "/img_productos/extincion/producto12.jpg"
+            },
+            {
+              "sku": "FP-5700",
+              "nombre_producto": "FirePro FP-5700",
+              "descripcion_producto": "Generador de máxima capacidad para grandes volúmenes",
+              "caracteristica1": "Masa compuesto FPC: 5,700g, Peso bruto: 26,400g",
+              "caracteristica2": "Dimensiones: 300x300x300mm, Tiempo descarga: 15-20 seg",
+              "caracteristica3": "Certificaciones: LPCB, UL, KIWA, MED, VDS, BSI",
+              "url": "/img_productos/extincion/producto13.jpg"
+            },
+            {
+              "sku": "FP-100-EX",
+              "nombre_producto": "FirePro FP-100 EX",
+              "descripcion_producto": "Generador ATEX para atmósferas explosivas",
+              "caracteristica1": "Masa compuesto FPC: 100g, Certificación ATEX",
+              "caracteristica2": "Dimensiones: Ø84x170mm, Protección: Ex s IIC T3 Ga",
+              "caracteristica3": "Ideal zonas peligrosas, certificación internacional",
+              "url": "/img_productos/extincion/producto14.jpg"
+            },
+            {
+              "sku": "FP-200-EX",
+              "nombre_producto": "FirePro FP-200 EX",
+              "descripcion_producto": "Generador ATEX para aplicaciones en áreas clasificadas",
+              "caracteristica1": "Masa compuesto FPC: 200g, Peso bruto: 2,315g",
+              "caracteristica2": "Dimensiones: Ø84x200mm, Certificación ATEX completa",
+              "caracteristica3": "Aprobado para uso en zonas con riesgo de explosión",
+              "url": "/img_productos/extincion/producto15.jpg"
+            },
+            {
+              "sku": "FP-500-EX",
+              "nombre_producto": "FirePro FP-500 EX",
+              "descripcion_producto": "Generador ATEX de media capacidad",
+              "caracteristica1": "Masa compuesto FPC: 500g, Dimensiones: Ø84x310mm",
+              "caracteristica2": "Activación eléctrica, certificación ATEX",
+              "caracteristica3": "Para aplicaciones industriales en áreas peligrosas",
+              "url": "/img_productos/extincion/producto16.jpg"
+            },
+            {
+              "sku": "FP-200M",
+              "nombre_producto": "FirePro FP-200M",
+              "descripcion_producto": "Generador manual HERO para extinción portátil",
+              "caracteristica1": "Masa compuesto FPC: 200g, Activación manual",
+              "caracteristica2": "Dimensiones: Ø84x150mm, Salidas descarga: 1",
+              "caracteristica3": "Ideal para áreas de acceso restringido",
+              "url": "/img_productos/extincion/producto17.jpg"
+            },
+            {
+              "sku": "FP-500M",
+              "nombre_producto": "FirePro FP-500M",
+              "descripcion_producto": "Generador manual de capacidad media",
+              "caracteristica1": "Masa compuesto FPC: 500g, Peso bruto: 1,910g",
+              "caracteristica2": "Tiempo descarga: 10-15 seg, Activador HERO V2",
+              "caracteristica3": "Para uso profesional en emergencias",
+              "url": "/img_productos/extincion/producto18.jpg"
+            },
+            {
+              "sku": "FP-1000M",
+              "nombre_producto": "FirePro FP-1000M",
+              "descripcion_producto": "Generador manual de alta capacidad",
+              "caracteristica1": "Masa compuesto FPC: 1,000g, Peso bruto: 2,240g",
+              "caracteristica2": "Dimensiones: Ø84x200mm, Salidas descarga: 2",
+              "caracteristica3": "Mayor cobertura para extinción manual",
+              "url": "/img_productos/extincion/producto19.jpg"
+            },
+            {
+              "sku": "BTA-V3-57C",
+              "nombre_producto": "BTA V3 57°C",
+              "descripcion_producto": "Activador térmico por bulbo para generadores cilíndricos",
+              "caracteristica1": "Temperatura activación: 57°C, Sin necesidad energía eléctrica",
+              "caracteristica2": "Certificación KIWA según EN15276.1",
+              "caracteristica3": "Para generadores 20TH/40T/80T/100S/200S/500S",
+              "url": "/img_productos/extincion/producto20.jpg"
+            },
+            {
+              "sku": "BTA-V3-68C",
+              "nombre_producto": "BTA V3 68°C",
+              "descripcion_producto": "Activador térmico para temperatura media",
+              "caracteristica1": "Temperatura activación: 68°C, Activación automática",
+              "caracteristica2": "Ideal para áreas con temperaturas ambientales normales",
+              "caracteristica3": "Compatibilidad con generadores cilíndricos",
+              "url": "/img_productos/extincion/producto21.jpg"
+            },
+            {
+              "sku": "BTA-V3-182C",
+              "nombre_producto": "BTA V3 182°C",
+              "descripcion_producto": "Activador térmico para alta temperatura",
+              "caracteristica1": "Temperatura activación: 182°C, Para ambientes calientes",
+              "caracteristica2": "Uso en salas de máquinas, cuartos de calderas",
+              "caracteristica3": "Certificado para aplicaciones industriales",
+              "url": "/img_productos/extincion/producto22.jpg"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "nombre": "PRI SAFETY",
+          "descripcion": "Equipos de seguridad primaria para prevención y protección contra incendios",
+          "productos": []
+        }
+      ],
+      "productos": []
+    },
+    {
+      "id": 4,
+      "nombre": "EQUIPOS MCG SURGE",
+      "descripcion": "Equipos de protección contra sobretensiones de la línea MCG para aplicaciones específicas.",
+      "subcategorias": [
+        {
+          "id": 41,
+          "nombre": "Data line protection",
+          "descripcion": "Protectores contra sobretensiones para líneas de datos y comunicaciones MCG",
+          "productos": []
+        },
+        {
+          "id": 42,
+          "nombre": "DC protection",
+          "descripcion": "Protectores contra sobretensiones para sistemas de corriente continua MCG",
+          "productos": []
+        }
+      ],
+      "productos": []
+    }
+  ]
+}
