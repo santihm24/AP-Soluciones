@@ -7,7 +7,7 @@ import { Calendar } from "lucide-react";
 const API_KEY = "558ebbd933424ea3833c3c10cc215e7a";
 const PAGE_SIZE = 8;
 
-// 🔥 Proxy para evitar CORS
+//  Proxy para evitar CORS
 const BASE_URL = "https://corsproxy.io/?https://newsapi.org/v2/everything";
 
 interface Article {
@@ -28,7 +28,7 @@ const News = () => {
     setLoading(true);
 
     try {
-      // 📅 Últimos 7 días
+      //  Últimos 7 días
       const today = new Date();
       const lastWeek = new Date();
       lastWeek.setDate(today.getDate() - 7);
@@ -39,7 +39,7 @@ const News = () => {
       const res = await fetch(url);
       const data = await res.json();
 
-      // 🧼 Filtro extra: solo noticias realmente recientes
+      //  Filtro extra: solo noticias realmente recientes
       const filtered = (data.articles || []).filter((a: Article) => {
         const published = new Date(a.publishedAt);
         const diffDays =

@@ -42,7 +42,7 @@ const QuoteForm = () => {
   };
 
   // ------------------------------------------------
-  // 🔍 VALIDACIONES AVANZADAS
+  //  VALIDACIONES AVANZADAS
   // ------------------------------------------------
   const validateForm = (): string | null => {
     // Nombre mínimo 3 letras
@@ -69,7 +69,7 @@ const QuoteForm = () => {
   };
 
   // ------------------------------------------------
-  // 📤 Enviar a WhatsApp
+  //  Enviar a WhatsApp
   // ------------------------------------------------
   const sendToWhatsApp = () => {
     const error = validateForm();
@@ -97,7 +97,7 @@ const QuoteForm = () => {
   };
 
   // ------------------------------------------------
-  // 📧 Enviar a correo (Formspree)
+  //  Enviar a correo (Formspree)
   // ------------------------------------------------
   const sendToEmail = async () => {
     const error = validateForm();
